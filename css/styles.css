@@ -55,8 +55,18 @@ div.rightlinks {
 
 
 .quot {
-  margin: 4em;
+  padding: 4em;
+  background-color: rgba(0, 128, 128, 0.2);
 }
+
+.quot h3 {
+  font-size: 20px;
+  color: #008080;
+  line-height: 35px;
+  font-style: italic;
+  text-align: center;
+}
+
 
 
 .container {
