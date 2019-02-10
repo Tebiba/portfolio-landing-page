@@ -1,0 +1,77 @@
+body  {
+@media (max-width: 991.98px)
+  background-color: #fff;
+  line-height: 1.7;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: 'Cardo',serif;
+  padding: 10px;
+  width: 100%
+}
+ul  {
+list-style-type: none;
+  margin: 0;
+  padding: 5px;
+
+
+}
+li {
+  float: right;
+}
+
+
+
+}
+a:link, a:visited  {
+  color: #008080;
+  background-color: transparent;
+  text-decoration: none;
+
+}
+
+a:hover   {
+text-decoration: underline;
+}
+
+
+.container {
+  position: relative;
+  font-family: 'Cardo', serif;
+}
+
+.center {
+  position: absolute;
+  left: 0;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  color: #008080;
+  line-height: 20px
+}
+
+.aboutme {
+  text-align: center;
+  color: #008080;
+  text-decoration: underline;
+  font-size: 18px;
+
+
+
+}
+
+h2, h3, h4, h5 {
+  color: #008080;
+  font-weight: 200;
+
+}
+
+#quote {
+  color: #008080;
+  padding: 20px;
+  font-style: italic;
+}
+
+img {
+  float: left;
+  padding-right: 40px;
