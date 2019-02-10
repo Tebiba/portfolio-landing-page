@@ -1,34 +1,17 @@
 @import URL(https://fonts.googleapis.com/css?family=Cardo);
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body  {
   background-color: #fff;
   line-height: 1.7;
   font-size: 16px;
   font-family: 'Cardo',serif;
-  padding: 10px;
-  width: 100%
-  margin:0px;
-  padding:0px;
-}
-ul  {
-list-style-type: none;
-  margin: 0;
-  padding: 5px;
-
-
-}
-li {
-  float: right;
 }
 
-.header {
-  background: url(../images/landing-page.jpg);
-  background-position: top left;
-  background-size: cover;
-}
-
-
-}
 a:link, a:visited  {
   color: #008080;
   background-color: transparent;
@@ -38,6 +21,41 @@ a:link, a:visited  {
 
 a:hover   {
 text-decoration: underline;
+}
+
+#header {
+  background: url(../images/landing-page.jpg);
+  height:100vh;
+  color: #008080;
+  background-position: top left;
+  background-size: cover;
+  margin: 0px;
+  padding:0px;
+}
+
+
+#links ul {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+#links li {
+  list-style: none;
+  float:left;
+  margin:1em;
+}
+
+div.rightlinks {
+  float: right;
+}
+
+.clearfloats {
+  clear:both;
+}
+
+
+.quot {
+  margin: 4em;
 }
 
 
