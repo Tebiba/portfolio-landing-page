@@ -1,24 +1,23 @@
-Portfolio landing page
+Portfolio landing page:
 Portfolio website for Tabitha Obara, 10 Feb, 2019
 
 By Tabitha Obara
 
-Description
-This is an exercise on HTML and CSS exploring the possibities of the two. detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Description:
+This is an exercise on HTML and CSS exploring the possibities of the two. 
 
-Setup/Installation Requirements
-* Internet
-
-Known Bugs
+Setup/Installation Requirements:
+Internet
 
 
-Technologies Used
+
+Technologies used:
 HTML and CSS.
 
-Contact details
+Contact details:
 Send queries to tebiba@gmail.com
 
-License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+License:
+
 
 Copyright (c) {2019} Tabitha Obara
