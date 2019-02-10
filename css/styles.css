@@ -53,7 +53,6 @@ div.rightlinks {
   clear:both;
 }
 
-
 .quot {
   padding: 4em;
   background-color: rgba(0, 128, 128, 0.2);
@@ -67,7 +66,10 @@ div.rightlinks {
   text-align: center;
 }
 
+#about {
+  padding:2em;
 
+}
 
 .container {
   position: relative;
@@ -85,14 +87,37 @@ div.rightlinks {
   line-height: 20px
 }
 
+#about {
+  margin: 0px;
+  padding:2em;
+  padding-top:5em;
+  padding-bottom: 5em;
+}
+
 .aboutme {
-  text-align: center;
   color: #008080;
-  text-decoration: underline;
   font-size: 18px;
+  margin-top:0px;
+  padding-top:0px;
+}
 
+.aboutme h2 {
+  color: #008080;
+  font-weight: 200;
+  margin:0px;
 
+}
 
+.aboutimage {
+  background: url(../images/passport-photo.jpg);
+  width:400px;
+  height:270px;
+  float:left;
+  margin:0px;
+  background-position: top left;
+  background-size: contain;
+  background-repeat: no-repeat;;
+  margin-right: 2em;
 }
 
 h1  {
