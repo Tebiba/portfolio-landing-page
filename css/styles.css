@@ -57,6 +57,8 @@ div.rightlinks {
 
 .clearfloats {
   clear:both;
+  margin: 0px;
+  padding: 0px;
 }
 
 .spacer {
@@ -96,7 +98,6 @@ div.rightlinks {
 #about {
   margin: 0px;
   padding-top:0px;
-  padding-bottom: 5em;
 }
 
 #about h2 {
@@ -118,17 +119,17 @@ div.rightlinks {
   font-size: 18px;
   margin-top:0px;
   padding-top:0px;
-  padding-bottom:
+  padding-bottom:0px;
 }
-
 
 .fancybg {
   background: url(../images/passport-photo-2.jpg);
   margin:0px;
   background-position: top left;
   background-size: cover;
-  background-repeat: no-repeat;;
-  margin-right: 2em;
+  background-repeat: no-repeat;
+  padding: 0px;
+
 }
 
 .aboutimage {
@@ -147,17 +148,10 @@ h1  {
    margin:1em;
 }
 
-
-
 #quote {
   color: #008080;
   padding: 20px;
   font-style: italic;
-}
-
-img {
-  float: left;
-  padding-right: 40px;
 }
 
 .abtflt {
@@ -165,3 +159,15 @@ img {
   width:45.5%;
   margin-right: 2em;
 }
+
+.contact  {
+    background-color: #008080;
+    text-align: center;
+    color:#fff;
+    padding: 2em;
+    margin: 0px;
+  }
+
+  .contact h2 {
+    color: #fff;
+  }
